@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe.config
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.pdb
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.exe
+C:\Users\Usuario\source\repos\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.pdb
